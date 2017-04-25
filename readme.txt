@@ -24,6 +24,7 @@ pip install Cython
 pip install tesserocr
 sudo pip install tesseract
 pip install Pillow
+pip setuptools
 
 #tests
 python manage.py test polls
